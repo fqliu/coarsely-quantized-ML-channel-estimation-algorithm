@@ -120,4 +120,4 @@ lg = legend('1bMM-ML','CQML:2-bit','CQML:3-bit','CQML:4-bit','UnqtML');
 lg.FontSize = 14;
 xlabel('SNR (dB)','FontSize',14);
 ylabel('MSE (dB)','FontSize',14);
-saveas(gcf,['C:\Users\fqliu\Desktop\IEEE COMML\code_share\n-bit MSE vs SNR','yanbao',num2str(1),'.jpg']);
+
